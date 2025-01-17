@@ -21,25 +21,25 @@ Create a React application featuring a `Timer` component. The component should a
 1. **Clone the Submodule Repository:**
 
     ```bash
-    git clone https://github.com/anirudha-8/07-countdown-timer-react-problem.git
+        git clone https://github.com/anirudha-8/07-countdown-timer-react-problem.git
     ```
 
 2. Navigate to the Project Directory:
 
     ```bash
-    cd 07-countdown-timer-react-problem
+        cd 07-countdown-timer-react-problem
     ```
 
 3. Install Dependencies:
 
     ```bash
-    npm install
+        npm install
     ```
 
 4. Start the Development Server:
 
     ```bash
-    npm run dev
+        npm run dev
     ```
 
 ---
